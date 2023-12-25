@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Passionate coder on a 4-year journey. Started with HTML, now exploring C, C++, Python, Java, and R. Love turning ideas into code. Let's connect and share the coding adventure! 💻❤️
 
 * ✉️  You can contact me at [vidyasinha939@gmail.com](mailto:vidyasinha939@gmail.com)
-* 🧠  I'm learning node js
+* 🧠  I'm learning dbms
 * 🤝  I'm open to collaborating on portfolio projects
 * ⚡  My real identity is - Gwen Stacy 🕸
 
