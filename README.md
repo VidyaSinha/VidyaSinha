@@ -6,7 +6,7 @@ Passionate coder on a 4-year journey. Started with HTML, now exploring C, C++, P
 * ✉️  You can contact me at [vidyasinha939@gmail.com](mailto:vidyasinha939@gmail.com)
 * 🧠  I'm learning dbms
 * 🤝  I'm open to collaborating on portfolio projects
-* ⚡  My real identity is - Gwen Stacy 🕸
+* ⚡  Secretly I'm Gwen Stacy 🕸
 
 <a href="https://www.github.com/VidyaSinha" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/VidyaSinha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
