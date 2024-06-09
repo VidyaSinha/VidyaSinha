@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vidya Sinha
 ===================================================================================================================================
 
-Passionate coder on a 4-year journey. Started with HTML, now exploring C, C++, Python, Java, and R. Love turning ideas into code. Let's connect and share the coding adventure! 💻❤️
+Passionate coder on a 4-year journey. Started with HTML, now exploring C, C++, Python, Java, and PHP. Love turning ideas into code. Let's connect and share the coding adventure! 💻❤️
 
 * ✉️  You can contact me at [vidyasinha939@gmail.com](mailto:vidyasinha939@gmail.com)
-* 🧠  I'm learning dbms
-* 🤝  I'm open to collaborating on portfolio projects
+* 🧠  I'm learning MERN stack
+* 🤝  I'm open to collaborating on portfolio projects.
 * ⚡  Secretly I'm Gwen Stacy 🕸
 
 <a href="https://www.github.com/VidyaSinha" target="_blank" rel="noreferrer"><img
