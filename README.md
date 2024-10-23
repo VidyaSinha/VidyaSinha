@@ -37,6 +37,22 @@ Here are some of the technologies and tools I’ve worked with:
   </a>
 </p>
 
+
+## 🔥 Featured Projects
+Here are some of the projects I’m most proud of:
+
+### [PetHub - Pet Caretaker and Adoption Platform](https://github.com/VidyaSinha/pethub)
+A platform that connects pet owners with caretakers and adopters. Features include real-time chat, video calls, and secure management of adoption offers.
+- **Technologies:** React, Node.js, MongoDB, Jitsi API
+
+### [Fashion Diva - Fashion Showcase Website](https://github.com/VidyaSinha/fashion-diva)
+A web platform showcasing fashion events, including different body types, ethnicities, and styles, with a contact page and live feedback form.
+- **Technologies:** HTML, CSS, JavaScript
+
+### [Book Recommendation System](https://github.com/VidyaSinha/book-recommendation-system)
+A personalized book recommendation engine using machine learning algorithms.
+- **Technologies:** Python, scikit-learn, Flask
+
 ---
 
 ### 📊 GitHub Stats
