@@ -49,9 +49,9 @@ A platform that connects pet owners with caretakers and adopters. Features inclu
 A web platform showcasing fashion events, including different body types, ethnicities, and styles, with a contact page and live feedback form.
 - **Technologies:** HTML, CSS, JavaScript
 
-### [Book Recommendation System](https://github.com/VidyaSinha/book-recommendation-system)
-A personalized book recommendation engine using machine learning algorithms.
-- **Technologies:** Python, scikit-learn, Flask
+### [Decision-Tree-Visualizer](#)
+A visualiizer to see decision Tree after changing the hyper parameters.
+- **Technologies:** Python, scikit-learn, streamlit
 
 ---
 
