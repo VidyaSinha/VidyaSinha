@@ -1,73 +1,27 @@
-# Hi there, I'm Vidya Sinha 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vidya Sinha
+===================================================================================================================================
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a focus on building high-quality, efficient software solutions. I love learning new technologies and applying them in real-world projects.
+Passionate coder on a 4-year journey. Started with HTML, now exploring C, C++, Python, Java, and PHP. Love turning ideas into code. Let's connect and share the coding adventure! 💻❤️
 
-## 🌟 About Me
-- 🎓 **Co-Chair of Young Indians (Yi) & College Chair of Masoom** at the Yi Executive Committee Leadership Academy.
-- 🔭 I’m currently working on improving my skills in **Machine Learning** and **Web Development**.
-- 💡 Open to new opportunities and collaborations in tech and open-source projects.
-- 💼 I’m actively building projects to expand my knowledge and showcase my work.
+* ✉️  You can contact me at [vidyasinha939@gmail.com](mailto:vidyasinha939@gmail.com)
+* 🧠  I'm learning ML
+* ⚡  Secretly I'm Gwen Stacy 🕸
 
----
+<a href="https://www.github.com/VidyaSinha" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/VidyaSinha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-## 🛠️ Technologies & Tools
-Here are some of the technologies and tools I’ve worked with:
+### Skills
 
-- **Languages:** C++, Java, Python, JavaScript, C#
-- **Frameworks:** .NET MVC, React, Node.js, Express
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, Docker, Jenkins, Packet Tracer
-- **Cloud:** AWS, Heroku, Netlify
 
----
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+</p>
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+### Socials
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username/github-readme-stats)
+<p align="left"> <a href="https://www.github.com/VidyaSinha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/the.artdiva" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/vidya-bharti-sinha-88715224b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@eyesineyes6673" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
----
+### Badges
 
-## 🔥 Featured Projects
-Here are some of the projects I’m most proud of:
-
-### [PetHub - Pet Caretaker and Adoption Platform](https://github.com/your-username/pethub)
-A platform that connects pet owners with caretakers and adopters. Features include real-time chat, video calls, and secure management of adoption offers.
-- **Technologies:** React, Node.js, MongoDB, Jitsi API
-
-### [Fashion Diva - Fashion Showcase Website](https://github.com/your-username/fashion-diva)
-A web platform showcasing fashion events, including different body types, ethnicities, and styles, with a contact page and live feedback form.
-- **Technologies:** HTML, CSS, JavaScript
-
-### [Book Recommendation System](https://github.com/your-username/book-recommendation-system)
-A personalized book recommendation engine using machine learning algorithms.
-- **Technologies:** Python, scikit-learn, Flask
-
----
-
-## 📚 Blog Posts
-I also enjoy writing technical articles and sharing my knowledge:
-
-- [Post 1: Title](#) - Brief description
-- [Post 2: Title](#) - Brief description
-
----
-
-## 🎯 Skills & Interests
-- **Web Development:** Full-stack projects using .NET MVC, JavaScript, and React.
-- **Machine Learning:** Interest in building recommendation systems, classification models, and applying ML in creative fields like art.
-- **Software Engineering:** Focus on writing clean, maintainable code and developing scalable applications.
-- **Network Engineering:** Experience with Packet Tracer and VLANs for network security and design.
-
----
-
-## 🤝 Let's Connect!
-Feel free to connect with me on:
-
-- [LinkedIn](https://www.linkedin.com/in/your-username/)
-- [Twitter](https://twitter.com/your-username/)
-- [Personal Portfolio](https://your-portfolio.com/)
-
----
-
+<a href="https://github.com/VidyaSinha" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidyaSinha&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
