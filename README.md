@@ -3,7 +3,7 @@
 
 
 ## 🌟 About Me
-- 🎓 **Co-Chair of Young Indians (Yi) & College Chair of Masoom** at the Yi Executive Committee Leadership Academy.
+
 - 🔭 I’m currently working on improving my skills in **Machine Learning** and **Web Development**.
 - 💡 Open to new opportunities and collaborations in tech and open-source projects.
 - 💼 I’m actively building projects to expand my knowledge and showcase my work.
@@ -55,7 +55,7 @@ A personalized book recommendation engine using machine learning algorithms.
 
 ---
 
-### 📊 GitHub Stats
+
 
 <a href="https://github.com/VidyaSinha">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidyaSinha&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
