@@ -16,7 +16,7 @@ Here are some of the technologies and tools I’ve worked with:
 - **Languages:** C++, Java, Python, JavaScript, C#
 - **Frameworks:** .NET MVC, React, Node.js, Express
 - **Databases:** MongoDB, MySQL
-- **Tools:** Git, Docker, Jenkins, Packet Tracer
+- **Tools:** Git, Jenkins, Packet Tracer
 - **Cloud:** AWS, Heroku, Netlify
 ---
 
