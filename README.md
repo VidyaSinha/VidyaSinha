@@ -49,7 +49,7 @@ A platform that connects pet owners with caretakers and adopters. Features inclu
 A web platform showcasing fashion events, including different body types, ethnicities, and styles, with a contact page and live feedback form.
 - **Technologies:** HTML, CSS, JavaScript
 
-### [Decision-Tree-Visualizer](https://github.com/VidyaSinha/decision-tree)
+### [Decision-Tree-Visualizer](https://github.com/VidyaSinha/decision-tree](https://dtrfsimuator.streamlit.app/)
 A visualiizer to see decision Tree after changing the hyper parameters.
 - **Technologies:** Python, scikit-learn, streamlit
 
