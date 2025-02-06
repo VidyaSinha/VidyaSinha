@@ -17,7 +17,7 @@ Here are some of the technologies and tools I’ve worked with:
 - **Frameworks:** .NET MVC, React, Node.js, Express
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git, Jenkins, Packet Tracer
-- **Cloud:** AWS, Heroku, Netlify
+- **Cloud:** AWS, Heroku
 ---
 
 ### 🌐 Socials
